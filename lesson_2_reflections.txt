@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+when you initialize a new repo, and empty repo gets created. we may need to add our files to it.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+the staging area is where we add files that have a related logical change in them. in the working directory all the files 
+are present whether or not they have any change and the repository contains all the files and their history. using
+the staging area to decide which files need to be committed is very useful
