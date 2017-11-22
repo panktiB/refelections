@@ -16,3 +16,7 @@ prefer it to be branched out so that whatever i have acheieved till now doesn't 
 
 How do the diagrams help you visualize the branch structure?
 diagrams show us how each commit is connected to each other and show us where each branch is located.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+the result is that it makes a new commit with all the changes in the individual branches. we represent it like this to show
+which the parents of the merged commit we created. 
