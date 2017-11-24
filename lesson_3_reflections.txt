@@ -14,3 +14,9 @@ forks- essentially cloning from one github repository directly to another github
 What is the benefit of having a copy of the last known state of the remote stored locally?
 the benefit is that we know what state our repository on github is. we know how many changes we have made and if we need to or not
 update the remote.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+i ddon't know
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+when its an experimental change and has to be reviewed upon.
