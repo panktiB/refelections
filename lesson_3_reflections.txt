@@ -5,3 +5,12 @@ to be able to use the file url.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 because maybe we aren't sure whether we want to include those changes into our work yet. we need to be able to choose whether or not 
 we want to include the changes.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+clone- downloads a file from a github repository onto the local machine.
+branch- part of the git repository where each branch can have a different function and different meaning.
+forks- essentially cloning from one github repository directly to another github account.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+the benefit is that we know what state our repository on github is. we know how many changes we have made and if we need to or not
+update the remote.
